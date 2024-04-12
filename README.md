@@ -1,16 +1,8 @@
 # destini
 
-A new Flutter project.
+![App Screenshot](https://github.com/amit2303/Destini/blob/main/Screnshots/Screenshot%202023-10-09%20at%209.32.18%E2%80%AFPM.png )
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display:flex; justify-content:space-around;">
+  <img src="https://github.com/amit2303/Destini/blob/main/Screnshots/Simulator%20Screenshot%20-%20iPhone%2015%20-%202023-10-09%20at%2021.31.45.png" alt="App Screenshot 1" width="300" height="600">
+  <img src="https://github.com/amit2303/Destini/blob/main/Screnshots/Simulator%20Screenshot%20-%20iPhone%2015%20-%202023-10-09%20at%2021.31.59.png " alt="App Screenshot 2" width="300" height="600">
+</div>
